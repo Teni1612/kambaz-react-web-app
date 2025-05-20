@@ -180,11 +180,11 @@ Hello World!
 <input type="radio" 
 name="NAME1" 
 value="Undergrad"/>
-<label for="undergrad">Undergrad</label><br/>
+<label htmlFor="undergrad">Undergrad</label><br/>
 <input type="radio" 
 name="NAME1" 
 value="Grad" checked/>
-<label for="Grad">Grad</label><br/>
+<label htmlFor="Grad">Grad</label><br/>
 
 <h5 id="wd-checkboxes">Checkboxes</h5> 
 <label>Favorite movie genre:</label><br/> 
