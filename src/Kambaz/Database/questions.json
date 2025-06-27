@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "123",
+        "quiz": "1011",
+        "title": "Easy MCQ",
+        "points": 4,
+        "question": "",
+        "type": "MCQ",
+        "possibleAnswers": ["3", "4", "5"],
+        "correctAnswer": "3"
+    },
+    {
+        "_id": "234",
+        "quiz": "1011",
+        "title": "Medium True or False",
+        "points": 2,
+        "question": "",
+        "type": "TF",
+        "possible_answers": ["True", "False"],
+        "correctAnswer": "True"
+    },
+    {
+        "_id": "345",
+        "quiz": "1011",
+        "title": "Hard Fill in the Blanks",
+        "points": 6,
+        "question": "",
+        "type": "FITB",
+        "possibleAnswers": ["two", "dos"],
+        "correctAnswer": ""
+    }
+]

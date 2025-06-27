@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "123",
+        "quiz": "1011",
+        "user": "234",
+        "points": 10,
+        "submittedAt": "2025-04-22T15:45:30.000Z",
+        "answers": [
+            {
+                "question": "123",
+                "userAnswer": "3"
+            },
+            {
+                "question": "234",
+                "userAnswer": "True"
+            },
+            {
+                "question": "345",
+                "userAnswer": "one"
+            }
+        ]
+    }
+]
